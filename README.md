@@ -3,7 +3,7 @@
 # Simon Says Game
 
 ![Simon Says Game]
-Website : https://keen-shortbread-cb439b.netlify.app/
+Website - https://keen-shortbread-cb439b.netlify.app/
 
 Welcome to the Simon Says game! This project is a simple web-based memory game where players need to repeat a sequence of colors. It's a fun way to challenge your memory skills and enjoy some retro gaming vibes.
 
